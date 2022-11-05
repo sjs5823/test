@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.board.contlloer">
+	<logger name="com.board.contoller">
 		<level value="info" />
 	</logger>
 	
